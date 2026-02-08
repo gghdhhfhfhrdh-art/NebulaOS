@@ -1,0 +1,22 @@
+ {
+  "type": "dir",
+  "name": "/",
+  "children": [
+    {
+      "type": "dir",
+      "name": "Документы",
+      "children": [
+        {
+          "type": "file",
+          "name": "readme.txt",
+          "content": "Добро пожаловать в Windows 12 FakeOS!\n"
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "Система",
+      "children": []
+    }
+  ]
+}
